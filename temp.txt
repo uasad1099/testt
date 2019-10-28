@@ -4,3 +4,4 @@ master
 newone
 >>>>>>> newone
 third
+rule appllied
