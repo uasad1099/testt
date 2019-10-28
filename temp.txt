@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 master
 =======
 newone
 >>>>>>> newone
 third
 rule appllied
+=======
+newone
+///new rule
+>>>>>>> newone
